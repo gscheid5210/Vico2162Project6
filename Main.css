@@ -1,5 +1,6 @@
 h1 {
     border-width: 10px;
+    border-color: rgb(43, 174, 226);
     /*text-decoration: underline;*/
     font-size: 42px;
     padding: 3;
@@ -8,6 +9,8 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-indent: 35%;
     /*  text-decoration-color: rgba(0, 255, 170, 0.774)*/
+    background-color: rgb(43, 174, 226);
+
 }
 
 
@@ -16,6 +19,7 @@ h1 {
 
 h2 {
     border-width: 10px;
+    border-color: rgb(43, 174, 226);
     /*text-decoration: underline;*/
     font-size: 26px;
     padding: 3;
@@ -24,12 +28,14 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-indent: 22%;
     /*  text-decoration-color: rgba(0, 255, 170, 0.774)*/
+    background-color: rgb(43, 174, 226);
 }
 
 
 
 h3 {
     border-width: 10px;
+    border-color: rgb(43, 174, 226);
     /* text-decoration: underline;*/
     font-size: 25px;
     padding: 6;
@@ -38,13 +44,15 @@ h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     /*text-indent: 5%;
     /*  text-decoration-color: rgba(0, 255, 170, 0.774)*/
+    background-color: rgb(43, 174, 226);
 }
 
-h4 {
+form {
     border-width: 10px;
     padding: 12;
     margin: 9;
     font-size: 15px;
+    background-color: rgb(43, 174, 226);
 
     /*text-indent: 5%;
     /*  text-decoration-color: rgba(0, 255, 170, 0.774)*/
